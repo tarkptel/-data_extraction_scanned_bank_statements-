@@ -1,0 +1,126 @@
+{
+    "bank": "POSTALE",
+    "account_number": "FR37 2004 1010 1252 1771 8Y03 342",
+    "statement_period": {
+        "start_date": "30 novembre au 31 décembre 2019",
+        "end_date": "31 décembre 2019"
+    },
+    "transactions": [
+        {
+            "date": "02/12",
+            "description": "VIREMENT DE MONDIAL RELAY",
+            "amount": "272,64",
+            "type": "credit"
+        },
+        {
+            "date": "02/12",
+            "description": "CREDIT CARTE BANCAIRE REFERENCE : 0190333900189023",
+            "amount": "-1 566,06",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 051184 DE 1 OPE COCCI MARKET SEVRES",
+            "amount": "2,30",
+            "type": "credit"
+        },
+        {
+            "date": "02/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 017292 DE 1 OPE COCCI MARKET SEVRES",
+            "amount": "-3,68",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 030073 DE 4 OPE COCCI MARKET SEVRES",
+            "amount": "12,14",
+            "type": "credit"
+        },
+        {
+            "date": "02/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 000886 DE 7 OPE COCCI MARKET SEVRES",
+            "amount": "-35,88",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 051184 DE 1 FA COCCI MARKET SEVRES",
+            "amount": "0,05",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 017292 DE 1 FA COCCI MARKET SEVRES",
+            "amount": "0,05",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 030073 DE 4 FA COCCI MARKET SEVRES",
+            "amount": "0,20",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 000886 DE 7 FA COCCI MARKET SEVRES",
+            "amount": "0,35",
+            "type": "debit"
+        },
+        {
+            "date": "02/12",
+            "description": "SAISIE ATTRIBUTION REFERENCE : 0181336930012324",
+            "amount": "609,59",
+            "type": "credit"
+        },
+        {
+            "date": "04/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 097337 DE 2 OPE COCCI MARKET SEVRES",
+            "amount": "-4,17",
+            "type": "debit"
+        },
+        {
+            "date": "04/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 076091 DE 2 OPE COCCI MARKET SEVRES",
+            "amount": "8,00",
+            "type": "credit"
+        },
+        {
+            "date": "04/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 076091 DE 2 FA COCCI MARKET SEVRES",
+            "amount": "0,10",
+            "type": "debit"
+        },
+        {
+            "date": "04/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 097337 DE 2 FA COCCI MARKET SEVRES",
+            "amount": "0,10",
+            "type": "debit"
+        },
+        {
+            "date": "05/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 064166 DE 5 OPE COCCI MARKET SEVRES",
+            "amount": "-23,48",
+            "type": "debit"
+        },
+        {
+            "date": "05/12",
+            "description": "CREDIT CARTE BANCAIRE REMISE 085145 DE 2 OPE COCCI MARKET SEVRES",
+            "amount": "28,10",
+            "type": "credit"
+        },
+        {
+            "date": "05/12",
+            "description": "DEBIT CARTE BANCAIRE COMMIS REMISE 085145 DE 2 FA COCCI MARKET SEVRES",
+            "amount": "0,14",
+            "type": "debit"
+        }
+    ],
+    "totals": {
+        "debits": "1 562,81",
+        "credits": "1 162,24"
+    },
+    "balance": {
+        "date": "31 décembre 2019",
+        "amount": "278,42"
+    }
+}
