@@ -65,5 +65,4 @@
 <h2>🤝 Contribution</h2>
 <p>Pull requests are welcome. For major changes, please open an issue first.</p>
 
-<h2>📧 Contact</h2>
-<p><b>Tark Patel</b><br>Email: your-email@example.com</p>
+<h2>📧 Tark Patel</h2>
