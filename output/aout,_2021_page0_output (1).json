@@ -1,0 +1,97 @@
+{
+    "bank": "Qonto",
+    "account_number": "FR76 1695 8000 0198 1243 9892 205",
+    "statement_period": {
+        "start_date": "01/08/2021",
+        "end_date": "31/08/2021"
+    },
+    "transactions": [
+        {
+            "date": "01/08",
+            "description": "Qonto",
+            "amount": "4200",
+            "type": "debit"
+        },
+        {
+            "date": "03/08",
+            "description": "TOTAL SOURDUNE FR",
+            "amount": "8809",
+            "type": "debit"
+        },
+        {
+            "date": "03/08",
+            "description": "WESTERN UNION COURBEVOIE FR",
+            "amount": "110",
+            "type": "debit"
+        },
+        {
+            "date": "04/08",
+            "description": "LECLERC DISTR COULOMMIER FR",
+            "amount": "1 626,00",
+            "type": "credit"
+        },
+        {
+            "date": "05/08",
+            "description": "DELICES 77 COULOMMIERS FR",
+            "amount": "2 555,93",
+            "type": "credit"
+        },
+        {
+            "date": "05/08",
+            "description": "LA POSTE 779240 COULOMMIERS FR",
+            "amount": "1 25,62",
+            "type": "credit"
+        },
+        {
+            "date": "06/08",
+            "description": "LES TEMPLIERS COULOMIER FR",
+            "amount": "144,00",
+            "type": "credit"
+        },
+        {
+            "date": "09/08",
+            "description": "",
+            "amount": "294,87",
+            "type": "debit"
+        },
+        {
+            "date": "09/08",
+            "description": "MICHEL GEORGES",
+            "amount": "110,00",
+            "type": "debit"
+        },
+
+              {
+            "date": "09/08",
+            "description": "MICHEL GEORGES",
+            "amount": "110,00",
+            "type": "debit"
+        },
+              {
+            "date": "09/08",
+            "description": "MICHEL GEORGES",
+            "amount": "110,00",
+            "type": "debit"
+        },
+              {
+            "date": "09/08",
+            "description": "MICHEL GEORGES",
+            "amount": "110,00",
+            "type": "debit"
+        },
+        {
+            "date": "09/08",
+            "description": "MAGNANI",
+            "amount": "22,50",
+            "type": "debit"
+        }
+    ],
+    "totals": {
+        "debts": "-1 476,78",
+        "credits": "4 345,91"
+    },
+    "balance": {
+        "date": "31/08",
+        "amount": ""
+    }
+}
